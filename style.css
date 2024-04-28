@@ -1,0 +1,193 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+*{
+    /* box-sizing: border-box; */
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* navbar start */
+
+.navbar-nav a{
+    color: black;
+    font-size: 18px;
+    letter-spacing: 0.7px;
+}
+
+.navbar-nav .nav-item .btn{
+    background-color: #FF9800;
+    border: none;
+    color: #fff;
+    padding: 12px 19px 12px 19px;
+    
+}
+
+.navbar-collapse .navbar-nav a{
+    margin-right: 10px;
+}
+
+/* navbar end */
+
+/* hero section start */
+
+.font{
+    border-radius: 2%;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: space-around;
+    background: linear-gradient(90deg, rgba(13, 66, 61, 0.9) -22.84%, rgba(12, 199, 181, 0.9) 138.88%);
+
+}
+
+
+/* hero section end */
+
+/* section formation start  */
+
+.formation{
+    background-color: #009688;
+    border-radius: 20px;
+    color: white;
+}
+
+.formation h3{
+    text-align: center;
+    font-size: 26px;
+}
+
+.formation .part{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.presentation{
+    border: 1px solid #009688;
+    border-radius: 20px;
+    height: 100%;
+}
+
+.presentation p{
+    font-size: 12px;
+    font-weight: 600;
+    margin-top: 30px;
+}
+
+.presentation .bouton{
+    background-color: rgb(251, 77, 77);
+    width: 100px;
+    height: 40px;
+}
+
+.program img{
+    width: 40px;
+}
+
+.program p{
+    font-size: 18px;
+    font-weight: 700;
+}
+/* section formation end  */
+
+/* section cours start */
+
+.imag2 img{
+    width: 100%;
+}
+
+.cours .imag2{
+    width: 100px;
+}
+
+.cours p{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.col1{
+    border: 1px solid red;
+    color: red;
+}
+
+.col2{
+    border: 1px solid #009688;
+    color: #009688;
+}
+
+.col3{
+    border: 1px solid orange;
+    color: #FF9800;
+}
+
+.col4{
+    border: 1px solid #009688;
+    color: #009688;
+}
+/* section cours end */
+
+/* section nos diplome start */
+
+.diplome{
+    background: #F44336;
+}
+.row .image1{
+    width: 50px;
+}
+
+/* section nos diplome end */
+
+/* section nos coach start */
+
+.coach1 p{
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 14px;
+}
+
+.coach2 .colc1{
+    border: 1px solid #009688;
+    padding: 30px 15px 30px 15px;
+    /* height: 250px; */
+}
+
+span{
+    width: 17px;
+    height: 17px;
+    border: 1px solid black;
+    border: none;
+    border-radius: 50%;
+    margin: 0 30px 0 30px;
+    background-color: gray;
+}
+/* section nos coach end */
+
+/* section nos partenaires start  */
+
+.partenaire{
+    background-color: #b5dddae5;
+    padding: 20px;
+}
+
+.partenaire .img_icon{
+    border: 1px solid white;
+    background-color: white;
+    width: 150px;
+    height: 170px;
+    border: none;
+    border-radius: 12%;
+}
+/* section nos partenaires end  */
+
+/* section footer start  */
+
+.section-footer{
+    background-color: #009688;
+    font-size: 12px;
+    margin-top: 120px;
+}
+
+/* section footer end  */

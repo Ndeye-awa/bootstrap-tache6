@@ -1,0 +1,14 @@
+{
+    "editor.renderWhitespace": "selection",
+    "editor.cursorStyle": "line",
+    "editor.wordWrap": "on",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.minimap.enabled": false,
+    "workbench.activityBar.location": "default",
+    "workbench.iconTheme": "vs-seti",
+    "workbench.sideBar.location": "left",
+    "workbench.tree.indent": 10,
+    "editor.lineHeight": 2
+}
